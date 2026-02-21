@@ -1,0 +1,1 @@
+O objetivo do jogo é controlar a cobrinha (quadrado preto), movendo-a para a direita, esquerda, cima e baixo, para que ela se alimente da comida (quadrado azul). A cada alimento consumido, a cobrinha cresce, os pontos são exibidos na lateral, o jogador deve evitar colisões com as laterais e com o próprio corpo. Ao final do jogo, a pontuação é exibida.
